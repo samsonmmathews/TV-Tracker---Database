@@ -11,13 +11,11 @@ This system replaces manual tracking methods with an automated, queryable, and r
 
 </div>
 
----
 
 ## 📌 Overview
 TV Tracker stores detailed user profiles, TV series metadata, ratings, and progress information.  
 It also calculates personalized ranking scores using a custom formula, ensuring users always know what to watch next.
 
----
 
 ## ✨ Features
 
@@ -39,7 +37,6 @@ It also calculates personalized ranking scores using a custom formula, ensuring 
 
 </div>
 
----
 
 ### 🚀 Potential Future Features
 <div align="left">
@@ -51,7 +48,6 @@ It also calculates personalized ranking scores using a custom formula, ensuring 
 
 </div>
 
----
 
 ## 🛠 Database Structure
 
@@ -64,18 +60,15 @@ It also calculates personalized ranking scores using a custom formula, ensuring 
 - **Relationships**  
   - `user_details` ↔ `user_series` ↔ `series` ↔ `company`
 
----
 
 ## 📊 Entity Relationship Diagram
 ![ERD Diagram](img/ERD.png)
 
----
 
 ## ⚙️ Tools Used
 - **MySQL** – Database engine
 - **SQL Views, Functions, Triggers** – Data processing and automation
 
----
 
 ## 📈 Benefits
 - Prevents losing track of watched episodes.
@@ -83,14 +76,12 @@ It also calculates personalized ranking scores using a custom formula, ensuring 
 - Creates a unified ranking score from multiple factors.
 - Improves data accessibility for analysis and recommendations.
 
----
 
 ## 🧠 Lessons Learned
 - Importance of normalizing tables for scalability.
 - The value of triggers in maintaining data integrity.
 - Balancing personalization with fair ranking algorithms.
 
----
 
 ## 📜 License
 
