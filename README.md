@@ -6,8 +6,8 @@ A MySQL database project designed to help users track, manage, and rank TV shows
 This system replaces manual tracking methods with an automated, queryable, and reliable database solution.
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white&labelColor=0B3D91)](https://www.mysql.com/)
-[![ERD Diagram](https://img.shields.io/badge/ERD-Diagram-orange?logo=diagram&logoColor=white)](./ERD.png)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![ERD Diagram](https://img.shields.io/badge/ERD-Diagram-orange?logo=diagram&logoColor=white)](./img/ERD.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
 </div>
 
